@@ -1,0 +1,262 @@
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Nothing+You+Could+Do&family=Shadows+Into+Light+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Nothing+You+Could+Do&family=Shadows+Into+Light+Two&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&family=Shadows+Into+Light&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Kalam&family=Nothing+You+Could+Do&family=Shadows+Into+Light+Two&display=swap');
+.mainblk
+{
+    background-image: url('./main.jpg');
+    background-size:cover;
+    height: 100vh;
+    width: 100%;
+    margin: 0;
+    padding: 0;
+    background-attachment: fixed;
+    text-decoration: rgba(255, 255, 255, 0.6);
+}
+.nav1{
+    height: 10%;
+    background-color: rgba(255, 255, 255, 0.6);
+}
+.linky{
+    text-decoration: none;
+    color: black;
+    font-size: 1cm;
+}
+.linky:visited,.linky:hover{
+    text-decoration: none;
+}
+.bdy1
+{
+    margin-left: 0;
+    padding: 0;  
+}
+.homeparent{
+    height:100vh;
+    background-attachment: fixed;
+    padding: 0;
+}
+.homeparent2{
+    height:100vh;
+    background-attachment: fixed;
+    margin-top: 0;
+    padding: 0;
+}
+
+.homesup{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.homeparent1
+{
+height:10%;
+text-align: center;
+margin-top: 2cm;
+letter-spacing: 0.3em;
+background-attachment: fixed;
+}
+.homemain
+{
+height:90%;
+display: flex;
+align-items: center;
+margin-top:-3%;
+
+}
+.pichome{
+   background-image: url(./handcup.jpg);
+   height:60%;
+   width: 30%;
+border-radius: 5%;
+border: 2px solid grey;
+padding: 0%;
+background-repeat: no-repeat;
+background-size: 115%;
+margin-left: 15%;
+}
+.contenthome
+{
+height:90%;
+background-color:white;
+width: 50%;
+height:70%;
+text-align: center;
+width:30%;
+margin-left: 7%;
+
+
+}
+.homehead{
+    text-align: center;
+    color:lightcoral;
+    font-size: 50px;
+    font-family: 'Nothing You Could Do', cursive;
+    letter-spacing: 10%;
+   
+
+}
+.text{
+    letter-spacing:0.05cm;
+    text-align: center;
+    align-content: space-around;
+    background-attachment: fixed;
+}
+.pichome1{
+    background-image: url(./cup.jpg);
+    height:60%;
+    width: 30%;
+ border-radius: 5%;
+ border: 2px solid grey;
+ padding: 0%;
+ background-repeat: no-repeat;
+ background-size: 115%;
+ margin-left: 20%;
+}
+.homemain1
+{
+height:90%;
+display: flex;
+align-items: center;
+margin-top: 10%;
+
+}
+.homemain2
+{
+height:90%;
+display: flex;
+align-items: center;
+margin-top: 3%;
+
+}
+.contenthome1
+{
+height:90%;
+background-color:white;
+width: 50%;
+height:70%;
+text-align: center;
+width:30%;
+margin-left: 5%;
+
+
+}
+.contenthome2
+{
+height:90%;
+background-color:white;
+width: 50%;
+height:70%;
+text-align: center;
+width:30%;
+margin-left: 15%;
+margin-right: 5%;
+
+
+
+}
+.pichome2{
+    background-image: url(./cup.jpg);
+    height:60%;
+    width: 30%;
+ border-radius: 5%;
+ border: 2px solid grey;
+ padding: 0%;
+ background-repeat: no-repeat;
+ background-size: 115%;
+ margin-left: 5%;
+}
+.social{
+    height:100vh;
+    background-attachment: fixed;
+    padding: 0;
+    margin: 0;
+}
+.sociohead{
+    background-color: white;
+    width:100%;
+    height: 15%;
+    text-align: center;
+    margin-top: 2%;
+    letter-spacing: 0.2em;
+    background-attachment: fixed;
+}
+.socioheadline{
+    text-decoration: underline;
+}
+.socioback{
+    background-image: url(./mobile.jpg);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width:100%;
+    height: 50%;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0;
+    }
+    
+    .empt{
+        width:100%;
+        height:20%;
+        background-color: white;
+        background-attachment: fixed;
+    }
+    .githublink{
+        background-color: black;
+        width:100%;
+        height:10%;
+        background-attachment: fixed;
+        color: ivory;
+        text-align: center;
+        font-size: 2em;
+        margin:0;
+        
+    }
+    .insta{
+        height:40%;
+        width:10%;
+        background-color:rgba(255, 255, 255, 0.6);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 8%;
+       margin-left:15%;
+       
+
+    }
+    .img1{
+        width:70%;
+        height:75%;
+    }
+    .facebook{
+        height:40%;
+        width:10%;
+        background-color:rgba(255, 255, 255, 0.6);
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: 8%;
+       margin-right:12%
+       
+
+    }
+    .img1{
+        width:80%;
+        height:85%;
+    }
+    .return1{
+        height:10%;
+        width: 5%;
+        border-radius: 50em;
+        margin-bottom: 0;
+        margin-left: 95%;
+        background-color: grey;
+        text-align: center;
+        background-attachment: fixed;
+    }
+    .link2:visited,.link2:hover{
+        text-decoration: none;
+        color:black;
+        
+    }
